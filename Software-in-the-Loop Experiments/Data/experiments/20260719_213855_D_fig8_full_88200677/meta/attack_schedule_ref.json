@@ -1,0 +1,272 @@
+{
+  "params": {
+    "duration": 20.0,
+    "frequency": 0.125,
+    "on_time": 4.0,
+    "start_time": 2.0
+  },
+  "schedules": {
+    "0": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 2.0,
+        "active": true
+      },
+      {
+        "t": 6.0,
+        "active": false
+      },
+      {
+        "t": 14.0,
+        "active": true
+      },
+      {
+        "t": 18.0,
+        "active": false
+      }
+    ],
+    "1": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 2.3,
+        "active": true
+      },
+      {
+        "t": 6.3,
+        "active": false
+      },
+      {
+        "t": 14.3,
+        "active": true
+      },
+      {
+        "t": 18.3,
+        "active": false
+      }
+    ],
+    "2": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 2.6,
+        "active": true
+      },
+      {
+        "t": 6.6,
+        "active": false
+      },
+      {
+        "t": 14.6,
+        "active": true
+      },
+      {
+        "t": 18.6,
+        "active": false
+      }
+    ],
+    "3": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 2.9,
+        "active": true
+      },
+      {
+        "t": 6.9,
+        "active": false
+      },
+      {
+        "t": 14.9,
+        "active": true
+      },
+      {
+        "t": 18.9,
+        "active": false
+      }
+    ],
+    "4": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 3.2,
+        "active": true
+      },
+      {
+        "t": 7.2,
+        "active": false
+      },
+      {
+        "t": 15.2,
+        "active": true
+      },
+      {
+        "t": 19.2,
+        "active": false
+      }
+    ],
+    "5": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 3.5,
+        "active": true
+      },
+      {
+        "t": 7.5,
+        "active": false
+      },
+      {
+        "t": 15.5,
+        "active": true
+      },
+      {
+        "t": 19.5,
+        "active": false
+      }
+    ],
+    "6": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 3.8,
+        "active": true
+      },
+      {
+        "t": 7.8,
+        "active": false
+      },
+      {
+        "t": 15.8,
+        "active": true
+      },
+      {
+        "t": 19.8,
+        "active": false
+      }
+    ],
+    "7": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 4.1,
+        "active": true
+      },
+      {
+        "t": 8.1,
+        "active": false
+      },
+      {
+        "t": 16.1,
+        "active": true
+      }
+    ],
+    "8": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 4.4,
+        "active": true
+      },
+      {
+        "t": 8.4,
+        "active": false
+      },
+      {
+        "t": 16.4,
+        "active": true
+      }
+    ],
+    "9": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 4.699999999999999,
+        "active": true
+      },
+      {
+        "t": 8.7,
+        "active": false
+      },
+      {
+        "t": 16.7,
+        "active": true
+      }
+    ],
+    "10": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 5.0,
+        "active": true
+      },
+      {
+        "t": 9.0,
+        "active": false
+      },
+      {
+        "t": 17.0,
+        "active": true
+      }
+    ],
+    "11": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 5.3,
+        "active": true
+      },
+      {
+        "t": 9.3,
+        "active": false
+      },
+      {
+        "t": 17.3,
+        "active": true
+      }
+    ],
+    "12": [
+      {
+        "t": 0.0,
+        "active": false
+      },
+      {
+        "t": 5.6,
+        "active": true
+      },
+      {
+        "t": 9.6,
+        "active": false
+      },
+      {
+        "t": 17.6,
+        "active": true
+      }
+    ]
+  }
+}
