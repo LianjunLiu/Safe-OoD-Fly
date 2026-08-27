@@ -3,9 +3,9 @@ Safe-OoD-Fly: Resilient Meta-Adaptive Tracking Control for Unmanned Aerial Vehic
 
 ## Real-world Experiment Video
 
-![Compare demo](Assets/Compare_full.gif)
+![Compare demo](Assets/WebVideo_compressed.gif)
 
-[▶ Full video](Assets/Compare_small.mp4)
+[▶ Download Full Video](Assets/WebVideo_compressed.mp4)
 
 ## Algorithm Structure
 
